@@ -28,5 +28,6 @@
 
 # Executables
 *.exe
+!Windows64/*.exe
 *.out
 *.app
